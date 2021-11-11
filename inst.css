@@ -1,0 +1,69 @@
+.h{
+    background-color: darkgray;
+    height: 150px;
+    width: 200px;
+    position: static;
+    border: 2px solid black;
+}
+.t{
+    background-color: darkgray;
+    height: 150px;
+    width: 200px;
+    position: relative;
+    margin: 50px;
+    border: 2px solid black;
+}
+.m{
+    background-color: darkgray;
+    height: 150px;
+    width: 200px;
+    position: static;
+    border: 2px solid black;
+    margin: 4px;
+}
+.l{
+    background-color: darkgray;
+    height: 150px;
+    width: 200px;
+    position: static;
+    border: 2px solid black;
+    margin: 4px;
+}
+.box{
+    background-color: darkgray;
+    height: 150px;
+    width: 200px;
+    position: static;
+    border: 2px solid black;
+    margin: 4px;
+}
+
+.box2{
+    background-color: darkgray;
+    height: 150px;
+    width: 200px;
+    position: static;
+    border: 2px solid black;
+    margin: 4px;
+}
+.loaf{
+    background-color:black;
+    height: 150px;
+    width: 200px;
+    position: sticky;
+    border: 2px solid black;
+    margin: 100px;
+}
+.inst2{
+    margin: 100px;
+    background: rgb(4,0,255);
+    background: linear-gradient(90deg, rgba(4,0,255,1) 0%, rgba(157,20,255,1) 31%, rgba(255,0,19,1) 60%, rgba(255,163,0,1) 100%);
+    height: 600px;
+    width: 600px;
+    border-radius: 180px;
+}
+.inst3{
+    height: 500px;
+    width: 500px;
+    border-radius: 111px solid white;
+}   
